@@ -10,5 +10,6 @@ namespace TestBookWeb.Data
             
         }
         public DbSet<Category> Categories { get; set; }
+
     }
 }
