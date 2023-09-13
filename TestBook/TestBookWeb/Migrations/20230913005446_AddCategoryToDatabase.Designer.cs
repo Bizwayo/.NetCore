@@ -12,7 +12,7 @@ using TestBookWeb.Data;
 namespace TestBookWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230909224516_AddCategoryToDatabase")]
+    [Migration("20230913005446_AddCategoryToDatabase")]
     partial class AddCategoryToDatabase
     {
         /// <inheritdoc />
@@ -39,8 +39,9 @@ namespace TestBookWeb.Migrations
                     b.Property<int>("DisplayOrder")
                         .HasColumnType("int");
 
-                    b.Property<int>("Name")
-                        .HasColumnType("int");
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

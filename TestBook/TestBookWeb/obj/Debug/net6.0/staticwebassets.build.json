@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ioXw3hyxzGQiJ4bZh0UDWCQrDsXni0mazTOpyf6/5cM=",
+  "Hash": "aQ2MP1tJs5oPkqedEet6jaE1CxLJJWs9l4ZTVFWEZs4=",
   "Source": "TestBookWeb",
   "BasePath": "_content/TestBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "TestBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\wwwroot\\",
+      "BasePath": "_content/TestBookWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\wwwroot\\css\\site.css",

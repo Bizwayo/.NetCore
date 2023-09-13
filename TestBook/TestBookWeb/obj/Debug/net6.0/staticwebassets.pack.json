@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TestBookWeb.bundle.scp.css"
     },
     {
+      "Id": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "E:\\Projects\\Web Apps and API Development\\.NET\\.NetCore\\TestBook\\TestBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
